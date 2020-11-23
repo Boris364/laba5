@@ -34,6 +34,8 @@ mysqli_query($connect, "SET NAMES utf8");
     <p> <a href = "new.php"> Добавить недвижимость в список </a>
     </br></br>
     <p> <a href = "create_pdf.php"> Сформировать PDF </a>
+        </br></br>
+    <p> <a href = "create_xls.php"> Сформировать Excel </a>
     </br></br>
     <p><a href="http://f0472439.xsph.ru/">К списку лабораторных работ</a>
 </body> 
